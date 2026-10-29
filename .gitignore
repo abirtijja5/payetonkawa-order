@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/
+*.sqlite3
+staticfiles/
+.coverage
+coverage.xml
+htmlcov/
+.env
+.idea/
+.vscode/
